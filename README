@@ -1,9 +1,14 @@
-Downloading the project
-Clone or download this repository to a workspace on your drive
-Click the ⤓ Code button on this page to get the URL to clone with Git or click Download ZIP to get a copy of this repository that you can extract
-Open a project in Unity
-Download, install, and run Unity Hub
-In the Installs tab, select Locate or Add to find or install Unity 2021.3 LTS or later. Include the Windows Build Support (IL2CPP) module if building for PC, and the Android Build Support if building for Android (for example, Meta Quest).
-In the Projects tab, click Add
-Browse to folder where you downloaded a copy of this repository and click Select Folder
-Verify the project has been added as XR-Interaction-Toolkit-Examples, and click on it to open the project
+## Downloading the project
+# 1.Clone or download this repository to a workspace on your drive
+Нажмите кнопку ⤓ Код на этой странице, чтобы получить URL-адрес для клонирования с помощью Git, или нажмите Загрузить ZIP-архив, чтобы получить копию этого репозитория, которую можно извлечь.
+# 2.Open a project in Unity
+Загрузите, установите и запустите Unity Hub.
+На вкладке «Установки» выберите «Найти» или «Добавить», чтобы найти или установить Unity 6000.2 LTS или более позднюю версию. Включите модуль Windows Build Support (IL2CPP) при сборке для ПК и модуль Android Build Support при сборке для Android (например, Meta Quest).
+На вкладке «Проекты» нажмите «Добавить».
+Перейдите в папку, в которую вы скачали копию этого репозитория, и нажмите «Выбрать папку».
+
+## General setup
+2 уровень находится в Assets/Scenes/VR Room
+
+## ВАЖНО 
+Каждому человеку необходимо создать свою собственную ветку, чтобы не конфликтовать с основной веткой
