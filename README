@@ -1,0 +1,9 @@
+Downloading the project
+Clone or download this repository to a workspace on your drive
+Click the ⤓ Code button on this page to get the URL to clone with Git or click Download ZIP to get a copy of this repository that you can extract
+Open a project in Unity
+Download, install, and run Unity Hub
+In the Installs tab, select Locate or Add to find or install Unity 2021.3 LTS or later. Include the Windows Build Support (IL2CPP) module if building for PC, and the Android Build Support if building for Android (for example, Meta Quest).
+In the Projects tab, click Add
+Browse to folder where you downloaded a copy of this repository and click Select Folder
+Verify the project has been added as XR-Interaction-Toolkit-Examples, and click on it to open the project
